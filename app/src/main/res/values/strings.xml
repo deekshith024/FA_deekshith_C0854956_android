@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">FA_deekshith_C0854956_android</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="MY_API_KEY" translatable="false">AIzaSyDDphu44bj3zdeDcmYu6pZPOwobIL0g0Bs</string>
+
 
 </resources>
